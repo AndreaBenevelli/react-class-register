@@ -31,7 +31,7 @@ npm install
 npm start
 ```
 
-### 3. Avvio backend
+### 3. Avvio frontend
 
 ```bash
 cd react-class-register/frontend
